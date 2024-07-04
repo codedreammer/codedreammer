@@ -1,6 +1,6 @@
 
 ![MasterHead](https://i.pinimg.com/originals/57/e3/53/57e353468c03daab4846f3c3418f436f.gif)
-<h1 align="center">Namasthe World🙏, I'm AKSHAY MEHTA</h1>
+<h1 align="center">Namaste World🙏, I'm AKSHAY MEHTA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
