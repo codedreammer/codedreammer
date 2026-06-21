@@ -83,28 +83,62 @@ My work focuses on developing scalable web applications, designing intuitive use
 
 ### 🏪 GD Subway — Smart Campus Marketplace
 
-> Full-stack campus marketplace and pre-order system built with Next.js, Supabase, PostgreSQL, Authentication, Role-Based Access Control, Realtime Updates and Admin/Vendor dashboards.
+> Full-stack campus marketplace and pre-order system built with Next.js, Supabase, PostgreSQL, Authentication, Role-Based Access Control, Realtime Updates and Admin/Vendor Dashboards.
+
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL
+
+🔗 **GitHub Repository:**
+https://github.com/codedreammer/GD-Subway-System.git
+
+🌐 **Live Demo:**
+https://gd-subway-system.vercel.app/auth/login
 
 ---
 
 ### 🏨 StaySafe — Hotel Booking Platform
 
-> Modern hotel booking platform featuring authentication, room management, booking workflows, owner dashboards and secure database policies using Supabase.
+> Modern hotel booking platform featuring authentication, room management, booking workflows, availability management, owner dashboards and secure database policies using Supabase.
+
+**Tech Stack:** Next.js • TypeScript • Supabase • PostgreSQL • Tailwind CSS
+
+🔗 **GitHub Repository:**
+https://github.com/codedreammer/hotel-booking-app.git
+
+🌐 **Live Demo:**
+https://hotel-booking-app-five-tau.vercel.app/
 
 ---
 
-### 📡 Real-Time EMF Monitoring & Impact Analysis System
+### 📡 Smart Gas & Fire Detection System
 
-> IoT-based monitoring platform using ESP8266, sensors, Firebase and a live dashboard for tracking environmental parameters in real time.
+> IoT-based monitoring and alert system using ESP8266, sensors, Firebase and a real-time dashboard for environmental safety monitoring.
+
+**Tech Stack:** ESP8266 • Firebase • IoT Sensors • React Dashboard
+
+🔗 **GitHub Repository:**
+https://github.com/codedreammer/Smart-Gas-Fire-Detection-System.git
 
 ---
 
 ### 🤖 AI Shopping Assistant
 
-> AI-powered shopping assistant designed to improve product discovery and enhance purchasing decisions.
+> AI-powered shopping assistant designed to improve product discovery and enhance purchasing decisions through intelligent recommendations.
 
-[Repository](https://github.com/codedreammer/AI-Shopping-Assistent)
+**Tech Stack:** Python • Flask • AI APIs
 
+🔗 **GitHub Repository:**
+https://github.com/codedreammer/AI-Shopping-Assistent
+
+---
+
+### 🌐 Portfolio Website
+
+> Personal portfolio website showcasing projects, skills and development journey with a modern responsive design.
+
+**Tech Stack:** HTML • CSS • JavaScript • Tailwind CSS
+
+🔗 **Live Link:**
+https://portfolio-fo.netlify.app/
 ---
 
 ## What I Work With
