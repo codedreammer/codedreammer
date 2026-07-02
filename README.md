@@ -163,20 +163,12 @@ https://portfolio-fo.netlify.app/
 ## GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=codedreammer&show_icons=true&theme=tokyonight&hide_border=true"/>
-  &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedreammer&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+  <img height="170em"
+src="https://github-readme-stats-ten-tau-28.vercel.app/api/top-langs/?username=codedreammer&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=codedreammer&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedreammer&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
 
 ## Let's Connect
 
