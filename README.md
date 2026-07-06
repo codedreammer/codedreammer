@@ -1,5 +1,4 @@
 <!-- Banner --
-
 ![MasterHead](https://i.pinimg.com/originals/57/e3/53/57e353468c03daab4846f3c3418f436f.gif)
 --->
 <div align="center">
